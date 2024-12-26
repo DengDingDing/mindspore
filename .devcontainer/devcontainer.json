@@ -1,5 +1,3 @@
 {
-  "image": "mindspore/mindspore-cpu",
-  "features": {
-  }
+  "image": "mindspore/mindspore-cpu"
 }
